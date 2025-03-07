@@ -1,3 +1,5 @@
+I fork this repo to learn linux in rpi.
+
 Linux kernel
 ============
 
